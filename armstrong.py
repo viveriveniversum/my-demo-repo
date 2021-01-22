@@ -1,5 +1,5 @@
 number = int(input("Number to check: "))
-# we need length of number
+# we need the length of number
 l = len(str(number))
 total = 0
 
