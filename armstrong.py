@@ -1,5 +1,5 @@
 number = int(input("Number to check: "))
-
+# we need length of number
 l = len(str(number))
 total = 0
 
@@ -13,3 +13,5 @@ if number == total:
     print(number, "is an Armstrong number!")
 else:
     print(number, "is not an Armstrong number!")
+
+# viveriveniversum @ github ------C7208-Onur MANAP
